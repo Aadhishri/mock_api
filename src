@@ -1,0 +1,53 @@
+[{ 
+"name": "ABC", 
+"age": 10, 
+"dob": "20-10-2020", 
+"firstName": "aa", 
+"lastName": "a", 
+"more": { 
+"address_line1": "XYZ lane", 
+"address_line2": "B street", 
+"address_line3": "C ",
+"phone": "8801821801" 
+} 
+},{ 
+"name": "Dhwkj", 
+"age": 6, 
+"dob": "21-10-2020", 
+"firstName": "dsklk", 
+"lastName": "kdkjsl", 
+"more": { 
+"address_line1": "dasl lane", 
+"address_line2": " asj street", 
+"address_line3": "mdkj", 
+"phone": "9091827983" 
+
+} 
+,{ 
+"name": "asmndb", 
+"age": 11, 
+"dob": "22-10-2020", 
+"firstName": "dbskjb", 
+"lastName": "slkdksl", 
+"more": { 
+"address_line1": "sjbwj lane", 
+"address_line2": " adjfgkj street", 
+"address_line3": "dvhjv", 
+"phone": "9283839768" 
+
+} 
+,{ 
+"name": "sdskj", 
+"age": 10, 
+"dob": "25-10-2020", 
+"firstName": "cbkj", 
+"lastName": "kkjcbkjs", 
+"more": { 
+"address_line1": "scbdkj lane", 
+"address_line2": " jfbrj street", 
+"address_line3": "ekgori", 
+"phone": "9038477983" 
+
+} 
+}] 
+
